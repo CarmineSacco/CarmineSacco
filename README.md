@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Benvenuto nel mio profilo GitHub
 
-<!--
-**CarmineSacco/CarmineSacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ciao! Sono Carmine Sacco, uno sviluppatore appassionato di tecnologia, programmazione e innovazione. Qui puoi trovare alcuni dei miei progetti pubblici che riflettono le mie competenze e i miei interessi.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetti in evidenza
+
+Ecco una selezione dei miei progetti principali:
+
+### 1. ReactTodo (https://github.com/CarmineSacco/ReactToDo.git)
+Piccola applicazione gestionale di task scritta in react  
+
+---
+
+## 📬 Contattami
+
+Se vuoi metterti in contatto con me, non esitare a inviarmi un'email:
+
+📧 **Email:** saccocarmine2004@gmail.com
+
+---
+
+Grazie per aver visitato il mio profilo! 😊
+
